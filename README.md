@@ -2,7 +2,7 @@ Hi 👋 I'm Debora Cocchi
 I am an Italian Full-Stack Web Developer
 
 -  🔭 Industrial Engineer passionate for Web Development
--  📚 Thirsty for knowledge, wanting to learn new lenguages
+-  📚 Thirsty for knowledge, wanting to learn new languages
 -  🎨 Love arts and graphics
 -  💬 Ask me about HTML5, CSS3, JavaScript, Vue.js, Sass, SQL, PHP, Laravel
 
