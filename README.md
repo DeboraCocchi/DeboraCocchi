@@ -1,7 +1,7 @@
 <h1>Hi 👋 I'm Debora Cocchi</h1>
 <h4>I am an Italian Full-Stack Web Developer</h4>
 
-<div display="flex;">
+
  
   <div style="width:60%;">
     <h5>About me:</h5>
@@ -16,8 +16,11 @@
     </ul>
   </div>
    <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" style="width:300px;">
+ 
+ ---
+ 
 
-</div>
+
 
 
 <!--
