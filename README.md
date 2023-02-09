@@ -1,7 +1,7 @@
 <h1>Hi 👋 I'm Debora Cocchi</h1>
 <div align="center;">
 <h4>I am an Italian Full-Stack Web Developer</h4>
- <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" style="width:300px;">
+
  </div>
  
  ---
@@ -38,10 +38,15 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
  
  
-
+---
+ 
+  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" style="width:300px;">
  
  </div>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraCocchi&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DeboraCocchi/DeboraCocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
