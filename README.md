@@ -12,7 +12,7 @@
       <li>🔭 Industrial Engineer passionate for Web Development</li>
         <li> 📚 Thirsty for knowledge, wanting to learn new languages</li>
         <li>🎨 Love arts and graphics</li>
-        <li>💬 Ask me about HTML5, CSS3, JavaScript, Vue.js, Sass, SQL, PHP, Laravel</li>
+        <li>💬 Ask me about HTML5, CSS3, JavaScript, React, Vue.js, Sass, SQL, PHP, Laravel and WordPress!</li>
       <li> You can reach me here : <a href="https://www.linkedin.com/in/debora-cocchi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></li>
