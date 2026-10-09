@@ -1,73 +1,37 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Debora Cocchi, Frontend or full-stack engineer, Full Stack Web Developer" />
+  <img src="assets/hero.svg" width="100%" alt="Debora Cocchi, Frontend or full-stack engineer, Full Stack Web Developer" /><br /><a href="https://github.com/deboracocchi"><img src="assets/btn-github.svg" width="50%" alt="GitHub" /></a><a href="https://www.linkedin.com/in/debora-cocchi/"><img src="assets/btn-linkedin.svg" width="50%" alt="LinkedIn" /></a>
 </p>
+
+<p><img src="assets/h-evaluate.svg" width="100%" alt="What teams can evaluate quickly" /></p>
 
 <p align="center">
-  <img src="assets/deb-walks.gif" width="96" alt="Debora che cammina" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/deb-fishing.gif" width="96" alt="Debora che pesca" />
+  <img src="assets/evaluate.svg" width="100%" alt="Role fit: Frontend or full-stack engineer, PHP, Blade, JavaScript. Public proof: 66 repositories, 0 stars. Momentum: 460 contributions, 142 active days" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/deboracocchi"><img src="https://img.shields.io/badge/GitHub-771be2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/debora-cocchi/"><img src="https://img.shields.io/badge/LinkedIn-f5d700?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
-</p>
-
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · Blade · JavaScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>66 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>460 contributions · 142 active days</p></td>
-</tr>
-</table>
 
 <p><sub>Full Stack Web Developer</sub></p>
 
-<h2>Proof at a glance</h2>
+<p><img src="assets/h-proof.svg" width="100%" alt="Proof at a glance" /></p>
 
 <p align="center">
   <img src="assets/stats.svg" width="100%" alt="Debora Cocchi GitHub proof metrics" />
 </p>
 
-<h2>Selected work</h2>
+<p><img src="assets/h-work.svg" width="100%" alt="Selected work" /></p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/DeboraCocchi/proj-html-vuejs">proj-html-vuejs</a></h3>
-<p>A selected public project.</p>
-<p><img src="https://img.shields.io/badge/Vue-771be2?style=flat-square" alt="Vue" /> <sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/DeboraCocchi/proj-html-vuejs">Read the repository →</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/DeboraCocchi/laravel-api">laravel-api</a></h3>
-<p>A selected public project.</p>
-<p><img src="https://img.shields.io/badge/PHP-f5d700?style=flat-square&labelColor=f5d700&color=f5d700&logoColor=black" alt="PHP" /> <sub>⭐ 0</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/DeboraCocchi/vite-boolflix">vite-boolflix</a></h3>
-<p>A selected public project.</p>
-<p><img src="https://img.shields.io/badge/Vue-771be2?style=flat-square" alt="Vue" /> <sub>⭐ 0</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/DeboraCocchi/laravel-dc-comics">laravel-dc-comics</a></h3>
-<p>A selected public project.</p>
-<p><img src="https://img.shields.io/badge/PHP-f5d700?style=flat-square&labelColor=f5d700&color=f5d700&logoColor=black" alt="PHP" /> <sub>⭐ 0</sub></p>
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/DeboraCocchi/proj-html-vuejs"><img src="assets/proj-html-vuejs.svg" width="23.5%" alt="proj-html-vuejs" /></a>
+<a href="https://github.com/DeboraCocchi/laravel-api"><img src="assets/laravel-api.svg" width="23.5%" alt="laravel-api" /></a>
+<a href="https://github.com/DeboraCocchi/vite-boolflix"><img src="assets/vite-boolflix.svg" width="23.5%" alt="vite-boolflix" /></a>
+<a href="https://github.com/DeboraCocchi/laravel-dc-comics"><img src="assets/laravel-dc-comics.svg" width="23.5%" alt="laravel-dc-comics" /></a>
+</p>
 
-<h2>Technical toolkit</h2>
+<p><img src="assets/h-toolkit.svg" width="100%" alt="Technical toolkit" /></p>
 
 <p align="center">
   <img src="assets/stack.svg" width="100%" alt="Debora Cocchi technology stack" />
 </p>
 
-<h2>Consistency signal</h2>
+<p><img src="assets/h-consistency.svg" width="100%" alt="Consistency signal" /></p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/771be2/deboracocchi" width="100%" alt="Debora Cocchi contribution activity" />
@@ -75,12 +39,13 @@
 
 <hr />
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/deboracocchi"><img src="https://img.shields.io/badge/GitHub-771be2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
-</tr>
-</table>
+<p><img src="assets/h-contact.svg" width="100%" alt="Let’s talk about the next build" /></p>
+
+<p>Open to thoughtful teams, ambitious products, and useful engineering work.</p>
+
+<p>
+  <a href="https://github.com/deboracocchi"><img src="https://img.shields.io/badge/GitHub-771be2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 <div align="center">
 
