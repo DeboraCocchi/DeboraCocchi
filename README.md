@@ -19,10 +19,9 @@
 <p><img src="assets/h-work.svg" width="100%" alt="Selected work" /></p>
 
 <p align="center">
-<a href="https://github.com/DeboraCocchi/proj-html-vuejs"><img src="assets/proj-html-vuejs.svg" width="23.5%" alt="proj-html-vuejs" /></a>
-<a href="https://github.com/DeboraCocchi/laravel-api"><img src="assets/laravel-api.svg" width="23.5%" alt="laravel-api" /></a>
-<a href="https://github.com/DeboraCocchi/vite-boolflix"><img src="assets/vite-boolflix.svg" width="23.5%" alt="vite-boolflix" /></a>
-<a href="https://github.com/DeboraCocchi/laravel-dc-comics"><img src="assets/laravel-dc-comics.svg" width="23.5%" alt="laravel-dc-comics" /></a>
+<a href="https://github.com/DeboraCocchi/E-commerce--TheSkincareRoutine"><img src="assets/proj-skincare.svg" width="32%" alt="E-commerce--TheSkincareRoutine" /></a>
+<a href="https://github.com/DeboraCocchi/villaggio-magico"><img src="assets/proj-villaggio.svg" width="32%" alt="villaggio-magico" /></a>
+<a href="https://github.com/DeboraCocchi/final-project-BDoctors7/tree/master"><img src="assets/proj-bdoctors.svg" width="32%" alt="final-project-BDoctors7" /></a>
 </p>
 
 <p><img src="assets/h-toolkit.svg" width="100%" alt="Technical toolkit" /></p>
@@ -53,7 +52,7 @@
 
 <br />
 
-<img src="assets/logo-DC.png" width="120" alt="Logo dc" />
+<img src="assets/footer-logo.svg" width="360" alt="Logo dc con Debora che pesca" />
 
 <p><sub>Debora Cocchi · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
